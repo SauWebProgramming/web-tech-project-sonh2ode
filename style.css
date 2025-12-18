@@ -49,3 +49,17 @@ body { background-color: var(--bg-dark); color: var(--text-main); line-height: 1
 .comment-card { background: #1f1f1f; padding: 15px; border-radius: 8px; margin-bottom: 15px; border-left: 3px solid #444; }
 .comment-card strong { color: var(--primary); display: block; margin-bottom: 5px; }
 .comment-card span { color: #f1c40f; font-size: 0.9rem; }
+
+/* Benzer içerikler ve Mobil uyum (responsive) ayarları */
+.similar-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 20px; }
+.similar-item { cursor: pointer; transition: 0.3s; text-align: center; }
+.similar-item:hover { color: var(--primary); }
+.similar-item img { width: 100%; aspect-ratio: 2/3; object-fit: cover; border-radius: 8px; margin-bottom: 8px; }
+.similar-item h4 { font-size: 0.9rem; }
+
+.modern-select { background: #222; color: white; border: 1px solid #444; padding: 10px; border-radius: 5px; margin-top: 20px; }
+
+@media (max-width: 768px) {
+    .detail-container { flex-direction: column; align-items: center; }
+    .detail-img { width: 100%; max-width: 300px; }
+}
