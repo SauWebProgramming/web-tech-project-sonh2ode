@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sonayflix | Sinema Keyfi</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="navbar">
+        <div class="container nav-content">
+            <h1 id="logo" class="logo">SONAY<span>FLIX</span></h1>
+            <nav>
+                <button id="show-all-btn" class="nav-btn active">Anasayfa</button>
+                <button id="show-favs-btn" class="nav-btn">Favorilerim</button>
+            </nav>
+            <div class="search-box">
+                <i class="fas fa-search"></i>
+                <input type="text" id="search-input" placeholder="İçerik ara...">
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div id="home-view">
+            <div class="filter-bar">
+                <select id="genre-filter" class="modern-select">
+                    <option value="all">Tüm Kategoriler</option>
+                    <option value="Bilim Kurgu">Bilim Kurgu</option>
+                    <option value="Drama">Drama</option>
+                    <option value="Korku">Korku</option>
+                    <option value="Polisiye">Polisiye</option>
+                </select>
+            </div>
+            <div id="media-grid" class="media-grid"></div>
+        </div>
+
+        <div id="detail-view" class="hidden">
+            <button id="back-btn" class="back-btn"><i class="fas fa-arrow-left"></i> Geri Dön</button>
+            <div id="detail-content" class="detail-container"></div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
