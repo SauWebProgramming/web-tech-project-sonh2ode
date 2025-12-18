@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "type": "Film",
+    "year": 2010,
+    "genre": "Bilim Kurgu",
+    "rating": 8.8,
+    "image": "https://play-lh.googleusercontent.com/sgiUzouc30R2SwmkEl5ZkGbk5puPVTydXscr6bzGa0sZT3VVQyevWHLhfuZ05cKulcmBHg",
+    "description": "Dom Cobb, insanların rüya gördüğü sırada bilinçaltının derinliklerine inerek değerli sırları çalan profesyonel bir hırsızdır. Ancak bu kez ona imkansız bir görev verilir: Bir fikri çalmak yerine, hedef kişinin zihnine bir fikir yerleştirmek (Başlangıç). Eğer başarılı olursa çocuklarına kavuşacaktır, fakat her rüya katmanında gerçeklik algısı biraz daha kaybolur.",
+    "cast": ["Leonardo DiCaprio", "Cillian Murphy", "Tom Hardy"],
+    "comments": [
+      {"user": "GeceKusu", "text": "O son sahnede topaç döndü mü durdu mu hala uykularım kaçıyor ya, Christopher Nolan tam bir dahi.", "score": 9},
+      {"user": "SinemaManya", "text": "Kafa karıştırıcı ama kesinlikle değer. Her izlediğimde yeni bir detay fark ediyorum.", "score": 10},
+      {"user": "Yorumcu99", "text": "Müzikleri Hans Zimmer yapmış zaten, kötü olma ihtimali yoktu. Arada bir açıp izliyorum.", "score": 8}
+    ],
+    "similar": [3, 10]
+  },
+  {
+    "id": 2,
+    "title": "Breaking Bad",
+    "type": "Dizi",
+    "year": 2008,
+    "genre": "Drama",
+    "rating": 9.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "description": "Akciğer kanseri olduğunu öğrenen mütevazı kimya öğretmeni Walter White, ailesinin geleceğini garanti altına almak için eski öğrencisi Jesse Pinkman ile bir karavanda uyuşturucu üretmeye başlar. Zamanla masum bir aile babasından, yeraltı dünyasının en çok korkulan baronu Heisenberg'e dönüşmesini izliyoruz. Bir insanın ne kadar değişebileceğinin en sert kanıtı.",
+    "cast": ["Bryan Cranston", "Aaron Paul"],
+    "comments": [
+      {"user": "HeisenbergFan", "text": "I am the one who knocks! Gelmiş geçmiş en iyi dizi budur aksini iddia eden izlememiştir.", "score": 10},
+      {"user": "DiziKurdu", "text": "İlk sezon biraz yavaş gelebilir ama sabredin, sonra öyle bir açılıyor ki durduramıyorsunuz.", "score": 9},
+      {"user": "SkylerHater", "text": "Walter reis ne yaptıysa ailesi için yaptı ama kimseye yaranamadı. Jesse ile olan ilişkileri çok duygusal.", "score": 10}
+    ],
+    "similar": [11, 14]
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "type": "Film",
+    "year": 2014,
+    "genre": "Bilim Kurgu",
+    "rating": 8.7,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmVZXzhYRG59wKuu6WQKgDersZ-RbsMHY7A&s",
+    "description": "Dünyanın kuraklık ve kıtlık nedeniyle sonu yaklaşırken, bir grup astronot insanlığın hayatta kalabilmesi için yeni bir yuva arayışına çıkar. Bir solucan deliğinden geçerek keşfedilmemiş galaksilere ulaşan ekip, zaman bükülmesi ve devasa dalgalarla mücadele ederken arkada bıraktıkları ailelerini ve zamanı kaybetme korkusunu derinden yaşarlar.",
+    "cast": ["Matthew McConaughey", "Anne Hathaway"],
+    "comments": [
+      {"user": "UzayYolcsu", "text": "Kütüphane sahnesinde ağlamayan bizden değildir... Bilim ve duygu bu kadar mı güzel harmanlanır?", "score": 10},
+      {"user": "Fizikci7", "text": "Kara delik tasviri bilimsel olarak da çok başarılı diyorlar. Görsel şölen resmen.", "score": 9},
+      {"user": "Melis_T", "text": "Biraz uzun bir film ama bir saniyesinde bile sıkılmadım. Müzikler zaten efsane.", "score": 9}
+    ],
+    "similar": [1, 7]
+  },
+  {
+    "id": 4,
+    "title": "The Conjuring",
+    "type": "Film",
+    "year": 2013,
+    "genre": "Korku",
+    "rating": 7.5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6MvGICCZNMRf3L-hsCZxG44qbWps0jTZFIw&s",
+    "description": "Dünyaca ünlü doğaüstü olay araştırmacıları Ed ve Lorraine Warren, ıssız bir çiftlik evinde yaşayan bir ailenin yardım çağrısına yanıt verirler. Evin karanlık geçmişi ve uyanan habis ruhlar, Warren çiftini hayatlarının en zorlu ve dehşet verici davasıyla karşı karşıya bırakır. Gerçek olaylardan esinlenilmiş olması korkuyu iki katına çıkarıyor.",
+    "cast": ["Vera Farmiga", "Patrick Wilson"],
+    "comments": [
+      {"user": "KorkuSever", "text": "Gece tek başıma izleme hatasına düştüm, mutfağa giderken arkama bakıyorum hala.", "score": 8},
+      {"user": "Sinan_D", "text": "Jump scare sahneleri çok yerinde olmuş, ses efektleri gerçekten insanı geriyor.", "score": 7},
+      {"user": "GhostHunter", "text": "Warren ailesinin kimyası çok iyi. Klasik korku filmlerinden çok daha kaliteli bir yapım.", "score": 9}
+    ],
+    "similar": [6, 12]
+  },
+  {
+    "id": 5,
+    "title": "Sherlock",
+    "type": "Dizi",
+    "year": 2010,
+    "genre": "Polisiye",
+    "rating": 9.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_.jpg",
+    "description": "Ünlü dedektif Sherlock Holmes, günümüz Londrası'nda Dr. John Watson ile birlikte karmaşık suçları çözmeye devam ediyor. Teknolojiyi ve olağanüstü gözlem yeteneklerini kullanan Sherlock, zekasıyla suçluları (ve bazen dostlarını) hayrete düşürürken, baş düşmanı Moriarty ile olan zeka oyunları tüm şehri tehlikeye atıyor.",
+    "cast": ["Benedict Cumberbatch", "Martin Freeman"],
+    "comments": [
+      {"user": "DahiZihin", "text": "Benedict resmen bu rol için doğmuş. O hızlı konuşmaları ve analizleri izlemek çok keyifli.", "score": 10},
+      {"user": "Watsonnn", "text": "Sherlock ve Watson arasındaki arkadaşlık için bile izlenir. Bölümler film tadında.", "score": 9},
+      {"user": "GizemliBiri", "text": "Modern zamana bu kadar iyi uyarlanacağını hiç düşünmezdim, senaryo çok zekice.", "score": 10}
+    ],
+    "similar": [11, 14]
+  },
+  {
+    "id": 6,
+    "title": "IT",
+    "type": "Film",
+    "year": 2017,
+    "genre": "Korku",
+    "rating": 7.3,
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg",
+    "description": "Maine'in küçük Derry kasabasında çocuklar gizemli bir şekilde kaybolmaya başladığında, bir grup dışlanmış çocuk kendi korkularıyla yüzleşmek zorunda kalır. Karşılarındaki düşman, yüzyıllardır orada olan ve Pennywise adındaki dans eden palyaço kılığında ortaya çıkan, şekil değiştiren korkunç bir varlıktır. Çocukluk travmaları ve dostluk üzerine kurulu bir gerilim.",
+    "cast": ["Bill Skarsgård", "Finn Wolfhard"],
+    "comments": [
+      {"user": "PalyaçoKorkusu", "text": "Pennywise'ın gülüşü hala kulaklarımda. İlk versiyonundan daha korkunç olmuş bence.", "score": 8},
+      {"user": "Cocukluk_Arkadasim", "text": "Sadece korku değil, çocukların dostluğu çok güzel işlenmiş. Stranger Things havası var.", "score": 7},
+      {"user": "HorrorGeek", "text": "Görsel efektler ve makyaj çok başarılı. Pennywise karakteri gerçekten ikonik.", "score": 8}
+    ],
+    "similar": [4, 12]
+  },
+  {
+    "id": 7,
+    "title": "Dark",
+    "type": "Dizi",
+    "year": 2017,
+    "genre": "Bilim Kurgu",
+    "rating": 8.8,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp_bENpN8S0GenzWI2aZU62ZYzJKUwg2NAEg&s",
+    "description": "Almanya'nın Winden kasabasında bir çocuğun kaybolması, dört aile arasındaki karmaşık ilişkileri ve karanlık sırları gün yüzüne çıkarır. Ancak bu sadece bir kayıp vakası değil, üç nesli kapsayan bir zaman yolculuğu ve kader döngüsüdür. Geçmiş, bugün ve gelecek arasındaki sınırların yok olduğu, 'ne zaman?' sorusunun önem kazandığı bir beyin jimnastiği.",
+    "cast": ["Louis Hofmann", "Lisa Vicari"],
+    "comments": [
+      {"user": "BeyinYakan", "text": "Kim kimin annesi, kim kimin torunu anlamak için yanımda kağıt kalemle izledim resmen.", "score": 10},
+      {"user": "ZamanYolcusuX", "text": "Atmosfer o kadar kasvetli ve çekici ki... Almanlar yapmış yapacağını. Müzikleri de şahane.", "score": 9},
+      {"user": "Dizici_Kız", "text": "İzlediğim en karmaşık ama en tutarlı hikaye. Sonu çok tatmin ediciydi.", "score": 10}
+    ],
+    "similar": [3, 1]
+  },
+  {
+    "id": 8,
+    "title": "The Godfather",
+    "type": "Film",
+    "year": 1972,
+    "genre": "Drama",
+    "rating": 9.2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-55XyoPZKBmcm4k03ibxgvcLxp9tj3oDm4g&s",
+    "description": "Don Vito Corleone, New York'un en büyük İtalyan mafya ailesinin başıdır. İkinci Dünya Savaşı'ndan dönen en küçük oğlu Michael, babasının kirli işlerine karışmak istemese de, aileye yapılan saldırılar ve ihanetler onu kaçınılmaz bir şekilde suç dünyasının yeni lideri olmaya zorlar. Onur, sadakat ve güç üzerine destansı bir anlatı.",
+    "cast": ["Marlon Brando", "Al Pacino"],
+    "comments": [
+      {"user": "MafyaBabasi", "text": "Reddedemeyeceğim bir teklif sundular ve izledim. Sinemanın zirvesidir bu film.", "score": 10},
+      {"user": "KlasikSever", "text": "Al Pacino'nun o sakinlikten karanlığa geçişi... Marlon Brando'nun karizması... Kusursuz.", "score": 10},
+      {"user": "FilmEleştirmeni", "text": "Biraz uzun gelebilir günümüz seyircisine ama her karesi bir tablo gibi.", "score": 9}
+    ],
+    "similar": [9, 15]
+  },
+  {
+    "id": 9,
+    "title": "Pulp Fiction",
+    "type": "Film",
+    "year": 1994,
+    "genre": "Polisiye",
+    "rating": 8.9,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Pulp_Fiction_%281994%29_poster.jpg/250px-Pulp_Fiction_%281994%29_poster.jpg",
+    "description": "Yönetmen Quentin Tarantino'dan, kronolojik olmayan bir kurguyla birbirine bağlanan birkaç farklı hikaye. İki kiralık katilin felsefi sohbetleri, bir boksörün kaçış planı, bir gangsterin karısıyla olan gecesi ve temizlikçilerin maceraları... Bolca şiddet, kara mizah ve akıllara kazınan diyaloglarla dolu bir kült film.",
+    "cast": ["John Travolta", "Samuel L. Jackson", "Uma Thurman"],
+    "comments": [
+      {"user": "TarantinoHayrani", "text": "Diyaloglar o kadar iyi ki, sadece oturup konuşmalarını bile 3 saat izleyebilirim.", "score": 10},
+      {"user": "SamuelFan", "text": "Vincent ve Jules'un hamburger muhabbeti efsanedir. Soundtrack'i hala dinliyorum.", "score": 9},
+      {"user": "Bora_07", "text": "Film bittiğinde ne izledim ben diyorsunuz ama sonra tekrar izlemek istiyorsunuz. Çok değişik.", "score": 8}
+    ],
+    "similar": [8, 15]
+  },
+  {
+    "id": 10,
+    "title": "Tenet",
+    "type": "Film",
+    "year": 2020,
+    "genre": "Bilim Kurgu",
+    "rating": 7.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BYjI0NDQzYmEtNzMwZC00ODA3LTgzZDYtZTk5ODZjY2Y2OTkzXkEyXkFqcGc@._V1_.jpg",
+    "description": "Bir 'Kahraman', dünyayı büyük bir felaketten kurtarmak için 'zamanın tersine akabildiği' casusluk dünyasına adım atar. Tenet adındaki gizemli bir kelimeyle yola çıkarak, gelecekle savaşmak zorundadır. Zaman yolculuğu değil, zamanın evirtimi (inversion) prensibiyle çalışan film, izleyiciyi nefes kesen bir aksiyonun içine çekiyor.",
+    "cast": ["John David Washington", "Robert Pattinson"],
+    "comments": [
+      {"user": "Nolan_Fan", "text": "Anlamak için 3 kere izlemem gerekti ama her seferinde daha çok sevdim. Pattinson harika oynamış.", "score": 8},
+      {"user": "FizikSever", "text": "Entropi meselesini bu kadar aksiyonun içine sokmak cesurca bir iş. Görsel efektler gerçekçi.", "score": 7},
+      {"user": "UykusuzGece", "text": "Müzikler beynimi tırmaladı resmen ama atmosfer çok başarılı. Biraz yorucu bir film.", "score": 7}
+    ],
+    "similar": [1, 3]
+  },
+  {
+    "id": 11,
+    "title": "Mindhunter",
+    "type": "Dizi",
+    "year": 2017,
+    "genre": "Polisiye",
+    "rating": 8.6,
+    "image": "https://images.justwatch.com/poster/143204207/s718/mindhunter.jpg",
+    "description": "1970'lerin sonunda iki FBI ajanı, suç psikolojisinin derinliklerine inerek 'seri katil' kavramını araştırmaya başlar. Hapsedilmiş gerçek katillerle röportajlar yaparak onların düşünce yapılarını anlamaya ve aktif davaları çözmeye çalışırlar. David Fincher'ın yönetmenliğinde, aksiyondan ziyade diyalog ve psikolojik gerilim ön planda.",
+    "cast": ["Jonathan Groff", "Holt McCallany"],
+    "comments": [
+      {"user": "PsikolojiOgrencisi", "text": "Katillerin psikolojisini o kadar gerçekçi işlemişler ki insanın kanı donuyor. Ed Kemper karakteri çok ürpertici.", "score": 10},
+      {"user": "PolisiyeSeven", "text": "Vur kırdı bekleyenler izlemesin, bu dizi tamamen zeka ve sorgu üzerine kurulu. Çok kaliteli.", "score": 9},
+      {"user": "Murat_K", "text": "Yeni sezon gelmeyecek olması kalbimi kırıyor. Fincher abimiz neden bıraktın bizi?", "score": 9}
+    ],
+    "similar": [5, 2]
+  },
+  {
+    "id": 12,
+    "title": "The Shining",
+    "type": "Film",
+    "year": 1980,
+    "genre": "Korku",
+    "rating": 8.4,
+    "image": "https://play-lh.googleusercontent.com/cASdq2TLZhIdhzjpX0iN3YBGD8gaGxOeX8gxKsJPRm5S8pUkahqVD3XUE0ZEQO2-LSeX=w240-h480-rw",
+    "description": "Jack Torrance, kışın kapalı olan ıssız Overlook Oteli'nin bakımını üstlenir ve ailesiyle birlikte oraya taşınır. Ancak otelin karanlık geçmişi ve tecrit altındaki yaşam, Jack'in yavaş yavaş akıl sağlığını yitirmesine neden olur. Oğlu Danny'nin sahip olduğu 'parıltı' (shining) yeteneği, oteldeki dehşeti görmesini sağlarken hayatta kalma mücadeleleri başlar.",
+    "cast": ["Jack Nicholson", "Shelley Duvall"],
+    "comments": [
+      {"user": "KubrickHayranı", "text": "Her karesi bir sanat eseri. Jack Nicholson'ın kapıyı kırdığı sahne sinema tarihinin en iyisidir.", "score": 10},
+      {"user": "KorkuGezgini", "text": "Klasik korku filmi dedikleri bu olsa gerek. Kanlı sahnelerden ziyade atmosfer geriyor.", "score": 9},
+      {"user": "Aslı_V", "text": "Otel koridorlarında Danny'nin üç tekerlekli bisikletle gezdiği sahneler beni bitiriyor.", "score": 8}
+    ],
+    "similar": [4, 6]
+  },
+  {
+    "id": 13,
+    "title": "Succession",
+    "type": "Dizi",
+    "year": 2018,
+    "genre": "Drama",
+    "rating": 8.9,
+    "image": "https://images.justwatch.com/poster/306751475/s718/sezon-1.jpg",
+    "description": "Dünyanın en büyük medya ve eğlence imparatorluklarından birini yöneten Roy ailesinin hikayesi. Yaşlanan baba Logan Roy'un emekliliği gündeme geldiğinde, dört çocuğu şirketin kontrolünü ele geçirmek için birbirlerine karşı acımasız bir savaşa girer. Zenginlik, güç, ihanet ve çarpık aile ilişkilerinin kara mizahla birleşimi.",
+    "cast": ["Jeremy Strong", "Brian Cox", "Kieran Culkin"],
+    "comments": [
+      {"user": "ZenginDertleri", "text": "Karakterlerin hepsi birbirinden nefret edilesi ama bir yandan da hepsini çok seviyorum, çok garip bir dizi.", "score": 10},
+      {"user": "Finansci_01", "text": "Diyaloglar çok keskin ve zekice. Müzikleri de diziye inanılmaz bir ağırlık katıyor.", "score": 9},
+      {"user": "Cansel_T", "text": "Roman Roy karakteri beni benden alıyor, her sahnesi ayrı bir olay.", "score": 9}
+    ],
+    "similar": [2, 14]
+  },
+  {
+    "id": 14,
+    "title": "Better Call Saul",
+    "type": "Dizi",
+    "year": 2015,
+    "genre": "Drama",
+    "rating": 9.0,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRimEHbz4Blzqgcu0-qbS9jHLEKoeuxb7VwXg&s",
+    "description": "Breaking Bad'in sevilen 'kirli' avukatı Saul Goodman'ın, henüz Jimmy McGill olduğu zamanlardaki hikayesi. Kendi halindeki bir avukattan, suç dünyasının vazgeçilmez ismi haline nasıl geldiğini izliyoruz. Abisiyle olan sancılı ilişkisi ve Kim Wexler ile olan ortaklığı, karakterin dönüşümündeki en büyük etkenler.",
+    "cast": ["Bob Odenkirk", "Rhea Seehorn"],
+    "comments": [
+      {"user": "Saul_Goodman_Fan", "text": "Breaking Bad'den bile daha iyi olduğunu düşündüğüm zamanlar oluyor. Karakter derinliği muazzam.", "score": 10},
+      {"user": "HukukcuAdayi", "text": "Kim Wexler sen nasıl bir kraliçesin... Kadın karakter yazımı ders olarak okutulmalı.", "score": 10},
+      {"user": "DiziSever90", "text": "Biraz yavaş ilerliyor ama sinematografisi ve oyunculukları için kesinlikle izlenmeli.", "score": 9}
+    ],
+    "similar": [2, 13]
+  },
+  {
+    "id": 15,
+    "title": "Parasite",
+    "type": "Film",
+    "year": 2019,
+    "genre": "Drama",
+    "rating": 8.5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ5IkvNT8H8gkFKGGEppZPaqxKtXazJ114Jw&s",
+    "description": "Fakir Kim ailesi, birer birer kendilerini zengin Park ailesinin hizmetine sızdırırlar. Ancak bu 'parazit' yaşam tarzı, beklediklerinden çok daha karmaşık ve karanlık bir hal alır. Sosyal sınıf farklarını, hırsı ve hayatta kalma mücadelesini hem güldüren hem de dehşete düşüren bir dille anlatan, Oscar ödüllü bir Güney Kore başyapıtı.",
+    "cast": ["Song Kang-ho", "Lee Sun-kyun"],
+    "comments": [
+      {"user": "KoreSinemasi", "text": "Dramdan gerilime geçiş sahnesi o kadar iyiydi ki ağzım açık izledim. Hak edilmiş bir Oscar.", "score": 10},
+      {"user": "Toplum_Analizi", "text": "Sınıf farkını bu kadar iyi anlatan başka bir film görmedim. Kokunun sınıfsallığı...", "score": 9},
+      {"user": "Deniz_K", "text": "Filmin yarısında tür değişiyor resmen. Çok etkileyici ve sarsıcı bir finali var.", "score": 9}
+    ],
+    "similar": [8, 13]
+  }
+]
