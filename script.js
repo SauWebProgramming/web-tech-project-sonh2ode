@@ -92,3 +92,21 @@ detailContent.innerHTML = `
     `;
     window.scrollTo(0,0);
 }
+// Favori İşlemi
+window.toggleFav = function(id) {
+    const index = favorites.indexOf(id);
+    if (index === -1) favorites.push(id);
+    else favorites.splice(index, 1);
+    
+    localStorage.setItem('sonay_favs', JSON.stringify(favorites));
+    
+    // UI Tazeleme
+    const activeBtn = document.querySelector('.nav-btn.active').id;
+    if(activeBtn === 'show-favs-btn') showFavs();
+    else filterData();
+};
+
+function showFavs() {
+    const favData = allData.filter(m => favorites.includes(m.id));
+    renderMedia(favData);
+}
