@@ -110,3 +110,36 @@ function showFavs() {
     const favData = allData.filter(m => favorites.includes(m.id));
     renderMedia(favData);
 }
+
+// Filtreleme ve Arama
+function filterData() {
+    const search = document.getElementById('search-input').value.toLowerCase();
+    const genre = document.getElementById('genre-filter').value;
+    const filtered = allData.filter(m => {
+        return m.title.toLowerCase().includes(search) && (genre === 'all' || m.genre === genre);
+    });
+    renderMedia(filtered);
+}
+
+// Navigasyon ve Eventler
+document.getElementById('back-btn').onclick = () => { homeView.classList.remove('hidden'); detailView.classList.add('hidden'); };
+document.getElementById('logo').onclick = () => { homeView.classList.remove('hidden'); detailView.classList.add('hidden'); renderMedia(allData); };
+document.getElementById('search-input').oninput = filterData;
+document.getElementById('genre-filter').onchange = filterData;
+document.getElementById('show-all-btn').onclick = (e) => {
+    setActiveNav(e.target);
+    renderMedia(allData);
+};
+document.getElementById('show-favs-btn').onclick = (e) => {
+    setActiveNav(e.target);
+    showFavs();
+};
+
+function setActiveNav(el) {
+    document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+    el.classList.add('active');
+    homeView.classList.remove('hidden');
+    detailView.classList.add('hidden');
+}
+
+loadData();
