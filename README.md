@@ -1,18 +1,39 @@
+# 🎬 Sonayflix - Modern Content Streaming Platform
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Xg2jV1i2)
 
----
-Bu ödev kapsamında, modern bir dijital içerik platformu (Netflix benzeri) arayüzü geliştirilmiştir. Proje tamamen dinamik bir yapıya sahiptir.
-
-### Öne Çıkan Özellikler:
-* **Dinamik Veri:** Film bilgileri, puanlar ve yorumlar `data.json` dosyasından çekilir.
-* **Favori Sistemi:** Beğendiğiniz filmleri favorilere ekleyebilirisiniz (Tarayıcı hafızasına kaydedilir).
-* **Hızlı Arama:** İçerikler arasında anlık isim araması yapılabilir.
-* **Kategori Filtreleme:** Türlerine göre filmleri ayırabilirsiniz.
-* **Mobil Uyumluluk:** Telefon ve tabletlerde sorunsuz çalışır.
-
-### Teknik Detaylar:
-* **HTML5 & CSS3:** Flexbox ve Grid sistemleri ile responsive tasarım.
-* **JavaScript:** Fetch API, LocalStorage ve DOM manipülasyonu.
-* **SPA Yapısı:** Sayfa yenilenmeden içerik değiştirme.
+Bu proje, bir "Video on Demand" (VoD) platformunun temel kullanıcı arayüzü ve işlevselliğini simüle etmek amacıyla geliştirilmiştir. Kullanıcı deneyimi, performans ve dinamik veri yönetimi ön planda tutulmuştur.
 
 ---
+
+## 🚀 Temel Fonksiyonlar
+
+* **Dinamik İçerik Yönetimi:** Tüm veriler (film adı, türü, puanı, yorumlar, benzer filmler) harici bir `data.json` dosyasından asenkron (Fetch API) olarak çekilmektedir.
+* **SPA (Single Page Application) Mimarisi:** Kullanıcı ana sayfa ile detay sayfası arasında geçiş yaparken sayfa yenilenmez. Bu, uygulama akıcılığını sağlar.
+* **Gelişmiş Filtreleme ve Arama:** Kullanıcılar hem metin aramasıyla hem de kategori seçimiyle içeriklere anlık olarak ulaşabilir.
+* **Akıllı Favori Sistemi:** `localStorage` entegrasyonu sayesinde kullanıcı favorileri tarayıcı oturumu kapansa dahi saklanır.
+* **Dinamik Detay Sayfası:** Her içerik için oyuncu kadrosu, özel yorumlar ve algoritma tabanlı "Benzer İçerikler" bölümü otomatik oluşturulur.
+
+## 🛠️ Teknik Altyapı
+
+* **Frontend:** HTML5 (Semantic), CSS3 (Modern Flexbox & Grid)
+* **Scripting:** ES6+ JavaScript (Async/Await, DOM Manipulation)
+* **Veri Yapısı:** JSON tabanlı NoSQL mantığında veri saklama.
+* **Responsive Tasarım:** Mobil öncelikli (Mobile-First) yaklaşım ile her ekran boyutuna tam uyumluluk.
+
+## 📁 Proje Dosya Yapısı
+
+- `index.html`: Uygulamanın iskeleti ve SPA katmanları.
+- `style.css`: Renk paleti, animasyonlar ve responsive düzenler.
+- `script.js`: İş mantığı, veri çekme ve UI güncellemeleri.
+- `data.json`: Uygulamanın veri tabanı rolünü üstlenen içerik seti.
+
+---
+
+## 🔗 Proje Canlı Linki (Demo)
+Aşağıdaki bağlantı üzerinden projeyi canlı olarak test edebilirsiniz:
+
+👉 **[PROJEYİ CANLI İZLEMEK İÇİN TIKLAYIN](https://sauwebprogramming.github.io/web-tech-project-sonh2ode/)**
+
+---
+*Bu proje Web Teknolojileri dersi kapsamında geliştirilmiştir.*
