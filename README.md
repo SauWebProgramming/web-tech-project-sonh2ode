@@ -36,4 +36,6 @@ Aşağıdaki bağlantı üzerinden projeyi canlı olarak test edebilirsiniz:
 👉 **[PROJEYİ CANLI İZLEMEK İÇİN TIKLAYIN](https://sauwebprogramming.github.io/web-tech-project-sonh2ode/)**
 
 ---
+Ad Soyad: Sonay Sude Savcı
+Öğrenci Numarası: B241200069
 *Bu proje Web Teknolojileri dersi kapsamında geliştirilmiştir.*
